@@ -5,7 +5,7 @@
     <meta name="author" content="Jhojan Gonzalez">
     <meta name="viewport" content="width=device-width,user-scalable=no">
     <meta name="description" content="Mi Curriculum Vitae">
-    <title>Mi eduación</title>
+    <title>Mi educación</title>
   </head>
   <header>
     <svg height="100" weight="600" >
@@ -18,9 +18,92 @@
     <a href="index.html">Inicio</a> | Educación | <a href="experiencia.html">Experiencia</a>
     <hr/>
   </nav>
-
   <body>
+    <h2>Educación</h2>
+    <table border="1">
+      <tr>
+        <td>AÑO</td>
+        <td>INSTITUCIÓN</td>
+        <td>LUGAR</td>
+        <td>TÍTULO</td>
+        <td>¿CULMINÓ?</td>
+      </tr>
+      <tr>
+        <td>2007</td>
+        <td>Escuela Colombiana de Carreras Industriales</td>
+        <td>Bogotá</td>
+        <td>Ingeniero Industrial</td>
+        <td style="text-align: center;">Si</td>
+      </tr>
+      <tr>
+        <td>2005</td>
+        <td>Escuela Colombiana de Carreras Industriales</td>
+        <td>Bogotá</td>
+        <td>Técnico Profesional en Desarrollo Empresarial</td>
+        <td style="text-align: center;">Si</td>
+      </tr>
+      <tr>
+        <td>2000</td>
+        <td>Fundación Colegio Mayor de San Bartolomé</td>
+        <td>Bogotá</td>
+        <td>Bachiller Académico</td>
+        <td style="text-align: center;">Si</td>
+      </tr>
+    </table>
+    <br>
+    <form autocomplete="on" name="Ingreso Estudios">
+        <legend><h2>Agregar Estudios</h2></legend>
+        <table border="0">
+          <tr>
+            <td>
+              <b><label for="Año">Año</label></b>
+            </td>
+            <td>
+              <input type="number" value="2017" id="Año" required="yes"><br>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><label for="Institucion">Institución</label></b>
+            </td>
+            <td>
+              <input type="text" required="yes" maxlength="30" id="Institucion"><br>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><label for="Lugar">Lugar</label></b>
+            </td>
+            <td>
+              <textarea name="name" rows="4" cols="22"></textarea>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><label for="Titulo">Título</label></b>
+            </td>
+            <td>
+              <input type="text" id="Titulo" maxlength="30">
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b><label for="Culmino">¿Culminó?</label></b>
+            </td>
+            <td>
+              <input type="radio" name="culmino" value="S">Si
+              <br>
+              <input type="radio" name="culmino" value="N">No
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <input type="submit" value="Enviar">
+            </td>
+          </tr>
+        </table>
 
+    </form>
   </body>
   <footer>
     <br>
