@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Logo.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-115.11966 : 51.153341 : 1"
+       inkscape:vp_y="563.67239 : 825.99843 : 0"
+       inkscape:vp_z="58.340012 : -67.217871 : 1"
+       inkscape:persp3d-origin="-56.291604 : -48.919188 : 1"
+       id="perspective3680" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="902.85714"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect3710"
+       width="140.60715"
+       height="89.958336"
+       x="34.773811"
+       y="25.613094"
+       style="stroke-width:0.26458332" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.84251976px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.47106305"
+       x="-5.4204755"
+       y="92.912712"
+       id="text3714"
+       transform="matrix(0.96934687,-0.43720714,0.56769038,0.77557553,0,0)"
+       inkscape:transform-center-x="-19.654777"
+       inkscape:transform-center-y="15.832888"><tspan
+         sodipodi:role="line"
+         id="tspan3712"
+         x="-5.4204755"
+         y="92.912712"
+         style="fill:#ff0000;stroke-width:0.47106305">JHOJAN</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#008000;stroke-width:0.26458332"
+       id="path3716"
+       sodipodi:sides="5"
+       sodipodi:cx="133.80357"
+       sodipodi:cy="80.797615"
+       sodipodi:r1="32.081249"
+       sodipodi:r2="16.040625"
+       sodipodi:arg1="2.1718701"
+       sodipodi:arg2="2.8001886"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 115.66072,107.25595 3.02801,-21.087766 -15.65498,-14.449377 20.99136,-3.63667 8.90453,-19.353865 9.94536,18.840177 21.15827,2.48803 -14.84479,15.28054 4.17201,20.891551 -19.11995,-9.396283 z"
+       inkscape:transform-center-x="0.27006291"
+       inkscape:transform-center-y="-2.8055077" />
+  </g>
+</svg>
